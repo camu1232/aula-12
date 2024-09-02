@@ -22,3 +22,6 @@ def hola Mundo:
 ```js
 function holaMundo() => console.log('Hola')
 ```
+~~~js
+function holaMundo() => console.log('
+~~~

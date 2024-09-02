@@ -1,0 +1,6 @@
+# ignorar carpetas
+.vscode/
+# ignorar un archico en específico
+ignorar.txt
+# ignorar todos los archivos terminados en .py
+*.py

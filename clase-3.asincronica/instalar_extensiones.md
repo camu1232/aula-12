@@ -65,6 +65,9 @@ Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=
 
 ```Levanta un servidor para que se pueda ver en el navegador los HTML que vamos haciendo ```
 
+### Para Activar
+Click derecho - open with live server/abrir con live server o Go Live (barra inferior)
+
 ## 7) 
 Nombre: Live Share
 ID: MS-vsliveshare.vsliveshare

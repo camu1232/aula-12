@@ -6,6 +6,10 @@
 # CLASE 2 - INSTALANDO PROGRAMAS Y CONOCIENDO GIT, GITHUB Y VISUAL STUCIO CODE
 - creamos un archivo md para explicar que es un algoritmo
 -  agregamos un archivo de instalación
+
 # CLASE 3 - EXTENSIONES, GITHUB Y VISUAL STUDIO CODE
 - Instalación de extensiones
 - introduction a MarkDown
+
+# CLASE 4 - INTRODUCCIÓN A HTML
+- (REPASO) Crear un repositorio (github y git)
